@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Number of Islands.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="Contains Duplicate II.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
@@ -27,7 +24,13 @@
     <ClCompile Include="Maximum Length of a Concatenated String with Unique Characters.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Check If Two String Arrays are Equivalent.cpp">
+    <ClCompile Include="Two Sum.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="Running Sum of 1d Array.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>

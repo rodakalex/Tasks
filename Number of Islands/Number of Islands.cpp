@@ -32,20 +32,6 @@ int numIslands(vector<vector<char>>& grid)
     return count;
 }
 
-//int main()
-//{
-//    vector<vector<char>> grid = {
-//                                    {'1', '1', '0', '0', '0'},
-//                                    {'1', '1', '0', '1', '0'},
-//                                    {'0', '0', '1', '0', '0'},
-//                                    {'0', '0', '0', '1', '1'}
-//                                };
-//
-//    if (numIslands(grid) == 4) 
-//    {
-//        cout << "Test 2 is ok";
-//    }
-//}
 
 
 

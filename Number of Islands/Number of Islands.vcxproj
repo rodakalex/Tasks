@@ -128,11 +128,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Check If Two String Arrays are Equivalent.cpp" />
     <ClCompile Include="Contains Duplicate II.cpp" />
     <ClCompile Include="Maximum Length of a Concatenated String with Unique Characters.cpp" />
-    <ClCompile Include="Number of Islands.cpp" />
     <ClCompile Include="Pascal%27s Triangle.cpp" />
+    <ClCompile Include="Running Sum of 1d Array.cpp" />
+    <ClCompile Include="test.cpp" />
+    <ClCompile Include="Two Sum.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
